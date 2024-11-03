@@ -177,3 +177,5 @@ Copied from [VS Code keyboard shortcuts PDF](https://code.visualstudio.com/short
 | `Ctrl+↑ / ↓                         ` | Scroll up/down                          |
 | `Shift+PgUp / PgDn                  ` | Scroll page up/down                     |
 | `Ctrl+Home / End                    ` | Scroll to top/bottom                    |
+
+Other operating systems’ keyboard shortcuts and additional unassigned shortcuts available at [Official VS Code docs](https://code.visualstudio.com/docs/getstarted/keybindings)
