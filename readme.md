@@ -1,7 +1,3 @@
----
-author: "Yusaf"
----
-
 # VS Code Windows shortcuts
 
 Copied from [VS Code keyboard shortcuts PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) and converted into markdown. I prefer to have a markdown file over looking at a PDF for this kind of info, and there didnt seem to be any versions on github that were styled into tables properly so i thought i'd create one. I have included a separate markdown file with just the shortcuts, but I will include them here too for ease of use. Feel free to fork or git clone for your own purposes.
